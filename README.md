@@ -1,5 +1,6 @@
 # Tip Calculator
 
+## Code
 ```python
 #If the bill was $150.00, split between 5 people, with 12% tip. 
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
@@ -16,4 +17,5 @@ final_amount = "{:.2f}".format(amount_to_be_paid)
 print(f"Each person should pay: ${final_amount}")
 ```
 
+## Output
 ![](/images/5.2.png)
